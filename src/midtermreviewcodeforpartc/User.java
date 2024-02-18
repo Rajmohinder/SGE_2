@@ -16,6 +16,7 @@ public class User
     private String password;
     
     /**
+     * 
      * a constructor that takes in the user's name and password
      * @param givenName
      * @param givenPass 
@@ -57,5 +58,6 @@ public class User
     {
         password = givenPass;
     }
-    
+  
 }
+
